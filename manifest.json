@@ -7,12 +7,12 @@
     "background_color": "#fdd000",
     "theme_color": "#808080",
     "icons": [{
-      "src": "./libs/icon192.png",
+      "src": "./libs/img/icon192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "./libs/icon512.png",
+      "src": "./libs/img/icon512.png",
       "type": "image/png",
       "sizes": "512x512"
     }]
