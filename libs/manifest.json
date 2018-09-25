@@ -1,0 +1,20 @@
+{
+    "name": "达文西绘画",
+    "short_name": "达文西绘画",
+    "start_url": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#fdd000",
+    "theme_color": "#808080",
+    "icons": [{
+      "src": "./libs/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./libs/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }]
+  }
+  
